@@ -1,6 +1,6 @@
 {
-  "version": "20260818-10",
+  "version": "20260818-11",
   "notes": "修复已知 BUG / 更新功能",
-  "zipUrl": "https://github.com/a0224ch-dot/multisig-station-streamline-releases/releases/download/20260818-10/streamline-20260818-10.zip",
-  "sha256": "5ef6b6643b38195c031bb6fafdd7aaa9b856bf3f28655afb2720965bdf02cdb6"
+  "zipUrl": "https://github.com/a0224ch-dot/multisig-station-streamline-releases/releases/download/20260818-11/streamline-20260818-11.zip",
+  "sha256": "7faaa10cd11260aae485a3808e9ae6ec1bbb12b1500d1d2b541845784bc23f05"
 }
